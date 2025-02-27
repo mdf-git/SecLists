@@ -43956,6 +43956,12 @@ Core/Framework/App/AppDefinition.php
 Framework/App/AppDefinition.php
 App/AppDefinition.php
 AppDefinition.php
+src/Core/Framework/App/Privileges/Utils.php
+Core/Framework/App/Privileges/Utils.php
+Framework/App/Privileges/Utils.php
+App/Privileges/Utils.php
+Privileges/Utils.php
+Utils.php
 src/Core/Framework/App/AppArchiveValidator.php
 Core/Framework/App/AppArchiveValidator.php
 Framework/App/AppArchiveValidator.php
@@ -102683,6 +102689,9 @@ _unreleased/2025-01-06-fix-cyprus-vatid-pattern.md
 changelog/_unreleased/2024-05-22-navbar-for-main-navigation.md
 _unreleased/2024-05-22-navbar-for-main-navigation.md
 2024-05-22-navbar-for-main-navigation.md
+changelog/_unreleased/2025-02-24-remove-spaceless-twig-filter.md
+_unreleased/2025-02-24-remove-spaceless-twig-filter.md
+2025-02-24-remove-spaceless-twig-filter.md
 changelog/_unreleased/2025-01-14-disabled-autoplay-to-legal-advice-on-accessibility.md
 _unreleased/2025-01-14-disabled-autoplay-to-legal-advice-on-accessibility.md
 2025-01-14-disabled-autoplay-to-legal-advice-on-accessibility.md
@@ -102773,6 +102782,9 @@ _unreleased/2025-01-20-use-plugin-upgrade-version-to-check-conflicts.md
 changelog/_unreleased/2025-01-17-improve-storefront-area-search-usage.md
 _unreleased/2025-01-17-improve-storefront-area-search-usage.md
 2025-01-17-improve-storefront-area-search-usage.md
+changelog/_unreleased/2025-02-04-added-mapping-property.md
+_unreleased/2025-02-04-added-mapping-property.md
+2025-02-04-added-mapping-property.md
 changelog/_unreleased/2025-01-30-deprecate-fine-grained-caching.md
 _unreleased/2025-01-30-deprecate-fine-grained-caching.md
 2025-01-30-deprecate-fine-grained-caching.md
@@ -102971,6 +102983,9 @@ _unreleased/2025-01-12-fix-foreign-key-definition.md
 changelog/_unreleased/2024-12-11-remove-unneeded-uppercasing-of-php-methods.md
 _unreleased/2024-12-11-remove-unneeded-uppercasing-of-php-methods.md
 2024-12-11-remove-unneeded-uppercasing-of-php-methods.md
+changelog/_unreleased/2025-02-20-move-progress-bar-to-meteor-component.md
+_unreleased/2025-02-20-move-progress-bar-to-meteor-component.md
+2025-02-20-move-progress-bar-to-meteor-component.md
 changelog/_unreleased/2024-12-17-changed-invalid-access-key-exception-returned-status-code.md
 _unreleased/2024-12-17-changed-invalid-access-key-exception-returned-status-code.md
 2024-12-17-changed-invalid-access-key-exception-returned-status-code.md
@@ -103151,6 +103166,9 @@ _unreleased/2025-02-04-adjust-vat-tos-and-tax-links-to-show-modal-depending-on-t
 changelog/_unreleased/2024-12-05-migrate-swcategorydetail-store-to-pinia.md
 _unreleased/2024-12-05-migrate-swcategorydetail-store-to-pinia.md
 2024-12-05-migrate-swcategorydetail-store-to-pinia.md
+changelog/_unreleased/2025-01-11-make-accountorderdropdown-button-id-unique.md
+_unreleased/2025-01-11-make-accountorderdropdown-button-id-unique.md
+2025-01-11-make-accountorderdropdown-button-id-unique.md
 changelog/_unreleased/2025-01-07-remove-message-queue-error-notification-in-admin.md
 _unreleased/2025-01-07-remove-message-queue-error-notification-in-admin.md
 2025-01-07-remove-message-queue-error-notification-in-admin.md
@@ -141343,6 +141361,13 @@ Framework/App/Event/AppDeactivatedEventTest.php
 App/Event/AppDeactivatedEventTest.php
 Event/AppDeactivatedEventTest.php
 AppDeactivatedEventTest.php
+tests/unit/Core/Framework/App/Permission/UtilsTest.php
+unit/Core/Framework/App/Permission/UtilsTest.php
+Core/Framework/App/Permission/UtilsTest.php
+Framework/App/Permission/UtilsTest.php
+App/Permission/UtilsTest.php
+Permission/UtilsTest.php
+UtilsTest.php
 tests/unit/Core/Framework/App/Cms/Xml/BlockTest.php
 unit/Core/Framework/App/Cms/Xml/BlockTest.php
 Core/Framework/App/Cms/Xml/BlockTest.php
