@@ -98522,6 +98522,14 @@ administration/test/transformer/svgStringifyTransformer.js
 test/transformer/svgStringifyTransformer.js
 transformer/svgStringifyTransformer.js
 svgStringifyTransformer.js
+src/Administration/Resources/app/administration/test/_helper_/find-by-placeholder.js
+Administration/Resources/app/administration/test/_helper_/find-by-placeholder.js
+Resources/app/administration/test/_helper_/find-by-placeholder.js
+app/administration/test/_helper_/find-by-placeholder.js
+administration/test/_helper_/find-by-placeholder.js
+test/_helper_/find-by-placeholder.js
+_helper_/find-by-placeholder.js
+find-by-placeholder.js
 src/Administration/Resources/app/administration/test/_helper_/id.collection.js
 Administration/Resources/app/administration/test/_helper_/id.collection.js
 Resources/app/administration/test/_helper_/id.collection.js
@@ -98612,6 +98620,14 @@ administration/test/_helper_/failedSpecFileReporter.js
 test/_helper_/failedSpecFileReporter.js
 _helper_/failedSpecFileReporter.js
 failedSpecFileReporter.js
+src/Administration/Resources/app/administration/test/_helper_/find-by-label.js
+Administration/Resources/app/administration/test/_helper_/find-by-label.js
+Resources/app/administration/test/_helper_/find-by-label.js
+app/administration/test/_helper_/find-by-label.js
+administration/test/_helper_/find-by-label.js
+test/_helper_/find-by-label.js
+_helper_/find-by-label.js
+find-by-label.js
 src/Administration/Resources/app/administration/test/eslint/error-reference.html.twig
 Administration/Resources/app/administration/test/eslint/error-reference.html.twig
 Resources/app/administration/test/eslint/error-reference.html.twig
@@ -103078,6 +103094,9 @@ _unreleased/2024-12-04-identify-themes-installed-via-plugin-by-technical-name.md
 changelog/_unreleased/2024-12-04-add-technical-name-to-allow-list.md
 _unreleased/2024-12-04-add-technical-name-to-allow-list.md
 2024-12-04-add-technical-name-to-allow-list.md
+changelog/_unreleased/2025-02-27-rearrange-cartsavedevent-in-rediscartpersister.md
+_unreleased/2025-02-27-rearrange-cartsavedevent-in-rediscartpersister.md
+2025-02-27-rearrange-cartsavedevent-in-rediscartpersister.md
 changelog/_unreleased/2024-12-11-services-stability-improvements.md
 _unreleased/2024-12-11-services-stability-improvements.md
 2024-12-11-services-stability-improvements.md
@@ -103153,6 +103172,9 @@ _unreleased/2025-01-02-add-custom-field-store-api-aware.md
 changelog/_unreleased/2024-10-28-change-autocomplete-to-new-password-in-honeypot.md
 _unreleased/2024-10-28-change-autocomplete-to-new-password-in-honeypot.md
 2024-10-28-change-autocomplete-to-new-password-in-honeypot.md
+changelog/_unreleased/2025-02-26-add-generic-type-to-entity-loaded-events.md
+_unreleased/2025-02-26-add-generic-type-to-entity-loaded-events.md
+2025-02-26-add-generic-type-to-entity-loaded-events.md
 changelog/_unreleased/2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
 _unreleased/2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
 2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
@@ -143548,6 +143570,5 @@ scripts.yml
 CODEOWNERS
 .envrc
 UPGRADE-6.8.md
-phpstan-v67-baseline.neon
 devenv.nix
 .git-blame-ignore-revs
