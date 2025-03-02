@@ -43389,6 +43389,12 @@ Framework/DependencyInjection/CompilerPass/TwigEnvironmentCompilerPass.php
 DependencyInjection/CompilerPass/TwigEnvironmentCompilerPass.php
 CompilerPass/TwigEnvironmentCompilerPass.php
 TwigEnvironmentCompilerPass.php
+src/Core/Framework/DependencyInjection/CompilerPass/AbstractMigrationReplacementCompilerPass.php
+Core/Framework/DependencyInjection/CompilerPass/AbstractMigrationReplacementCompilerPass.php
+Framework/DependencyInjection/CompilerPass/AbstractMigrationReplacementCompilerPass.php
+DependencyInjection/CompilerPass/AbstractMigrationReplacementCompilerPass.php
+CompilerPass/AbstractMigrationReplacementCompilerPass.php
+AbstractMigrationReplacementCompilerPass.php
 src/Core/Framework/DependencyInjection/CompilerPass/MessengerMiddlewareCompilerPass.php
 Core/Framework/DependencyInjection/CompilerPass/MessengerMiddlewareCompilerPass.php
 Framework/DependencyInjection/CompilerPass/MessengerMiddlewareCompilerPass.php
@@ -103010,6 +103016,9 @@ _unreleased/2024-12-13-added-new-encode-event-for-store-api-routes.md
 changelog/_unreleased/2024-10-30-update-to-symfony-7-2.md
 _unreleased/2024-10-30-update-to-symfony-7-2.md
 2024-10-30-update-to-symfony-7-2.md
+changelog/_unreleased/2025-02-26-fix-essential-characteristics-settings-cannot-save.md
+_unreleased/2025-02-26-fix-essential-characteristics-settings-cannot-save.md
+2025-02-26-fix-essential-characteristics-settings-cannot-save.md
 changelog/_unreleased/2024-11-28-fix-draco-encoders-path.md
 _unreleased/2024-11-28-fix-draco-encoders-path.md
 2024-11-28-fix-draco-encoders-path.md
