@@ -102797,6 +102797,9 @@ _unreleased/2025-01-07-improve-payment-method-indexer-context-state-usage.md
 changelog/_unreleased/2025-02-11-remove-laguage-switch-from-document-settings.md
 _unreleased/2025-02-11-remove-laguage-switch-from-document-settings.md
 2025-02-11-remove-laguage-switch-from-document-settings.md
+changelog/_unreleased/2025-02-28-add-aria-labels-to-product-slider-controls.md
+_unreleased/2025-02-28-add-aria-labels-to-product-slider-controls.md
+2025-02-28-add-aria-labels-to-product-slider-controls.md
 changelog/_unreleased/2024-09-16-exchange-recursive-categories-macro-with-tpl.md
 _unreleased/2024-09-16-exchange-recursive-categories-macro-with-tpl.md
 2024-09-16-exchange-recursive-categories-macro-with-tpl.md
@@ -143542,17 +143545,6 @@ stages/50-install-nightly.yml
 .gitlab/stages/40-downstream.yml
 stages/40-downstream.yml
 40-downstream.yml
-.gitlab/docker/tags/Dockerfile
-docker/tags/Dockerfile
-tags/Dockerfile
-Dockerfile
-.gitlab/docker/dev/Dockerfile
-docker/dev/Dockerfile
-dev/Dockerfile
-Dockerfile
-.gitlab/docker/entrypoint.sh
-docker/entrypoint.sh
-entrypoint.sh
 .gitlab/templates/plugin-cloud-jobs.yml
 templates/plugin-cloud-jobs.yml
 plugin-cloud-jobs.yml

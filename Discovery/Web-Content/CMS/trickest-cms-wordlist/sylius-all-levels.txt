@@ -57061,6 +57061,14 @@ Resources/assets/styles/_base.scss
 assets/styles/_base.scss
 styles/_base.scss
 _base.scss
+src/Sylius/Bundle/ShopBundle/Resources/assets/styles/_tom-select.scss
+Sylius/Bundle/ShopBundle/Resources/assets/styles/_tom-select.scss
+Bundle/ShopBundle/Resources/assets/styles/_tom-select.scss
+ShopBundle/Resources/assets/styles/_tom-select.scss
+Resources/assets/styles/_tom-select.scss
+assets/styles/_tom-select.scss
+styles/_tom-select.scss
+_tom-select.scss
 src/Sylius/Bundle/ShopBundle/Resources/assets/styles/_form.scss
 Sylius/Bundle/ShopBundle/Resources/assets/styles/_form.scss
 Bundle/ShopBundle/Resources/assets/styles/_form.scss
