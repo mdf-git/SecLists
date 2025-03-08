@@ -80686,6 +80686,13 @@ core/modules/big_pipe/big_pipe.routing.yml
 modules/big_pipe/big_pipe.routing.yml
 big_pipe/big_pipe.routing.yml
 big_pipe.routing.yml
+core/modules/big_pipe/tests/src/Kernel/SerializeResponseTest.php
+modules/big_pipe/tests/src/Kernel/SerializeResponseTest.php
+big_pipe/tests/src/Kernel/SerializeResponseTest.php
+tests/src/Kernel/SerializeResponseTest.php
+src/Kernel/SerializeResponseTest.php
+Kernel/SerializeResponseTest.php
+SerializeResponseTest.php
 core/modules/big_pipe/tests/src/Kernel/BigPipeInterfacePreviewThemeSuggestionsTest.php
 modules/big_pipe/tests/src/Kernel/BigPipeInterfacePreviewThemeSuggestionsTest.php
 big_pipe/tests/src/Kernel/BigPipeInterfacePreviewThemeSuggestionsTest.php
