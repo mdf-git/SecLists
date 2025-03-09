@@ -102884,6 +102884,9 @@ _unreleased/2024-11-22-a11y-convey-how-the-promotion-information-when-submit.md
 changelog/_unreleased/2025-01-09-improve-method-call-usage.md
 _unreleased/2025-01-09-improve-method-call-usage.md
 2025-01-09-improve-method-call-usage.md
+changelog/_unreleased/2025-03-07-delete-cart-immediately-after-order-is-created.md
+_unreleased/2025-03-07-delete-cart-immediately-after-order-is-created.md
+2025-03-07-delete-cart-immediately-after-order-is-created.md
 changelog/_unreleased/2024-05-14-accessibility-improvements-for-the-main-navigation.md
 _unreleased/2024-05-14-accessibility-improvements-for-the-main-navigation.md
 2024-05-14-accessibility-improvements-for-the-main-navigation.md
@@ -103082,6 +103085,9 @@ _unreleased/2025-02-07-improve-reset-interface-usage-with-array-data.md
 changelog/_unreleased/2024-12-11-deprecate-custom-entities-for-plugins.md
 _unreleased/2024-12-11-deprecate-custom-entities-for-plugins.md
 2024-12-11-deprecate-custom-entities-for-plugins.md
+changelog/_unreleased/2025-02-28-add-shopware-usage-data-collection-enabled-config-to-improve-usage-of-shopware-usage-data-gateway-dispatch-enabled.md
+_unreleased/2025-02-28-add-shopware-usage-data-collection-enabled-config-to-improve-usage-of-shopware-usage-data-gateway-dispatch-enabled.md
+2025-02-28-add-shopware-usage-data-collection-enabled-config-to-improve-usage-of-shopware-usage-data-gateway-dispatch-enabled.md
 changelog/_unreleased/2025-01-14-replace-custom-css-declarations-from-the-header-scss-file-by-bootstrap-helper-classes.md
 _unreleased/2025-01-14-replace-custom-css-declarations-from-the-header-scss-file-by-bootstrap-helper-classes.md
 2025-01-14-replace-custom-css-declarations-from-the-header-scss-file-by-bootstrap-helper-classes.md
@@ -103625,6 +103631,9 @@ _unreleased/2025-01-02-add-allow-html-entity-attribute.md
 changelog/_unreleased/2025-03-05-update-switch-context-event.md
 _unreleased/2025-03-05-update-switch-context-event.md
 2025-03-05-update-switch-context-event.md
+changelog/_unreleased/2025-03-07-make-offcanvas-navigation-accessible.md
+_unreleased/2025-03-07-make-offcanvas-navigation-accessible.md
+2025-03-07-make-offcanvas-navigation-accessible.md
 changelog/_unreleased/2024-01-31-improve-cart-page-performance.md
 _unreleased/2024-01-31-improve-cart-page-performance.md
 2024-01-31-improve-cart-page-performance.md
@@ -137240,6 +137249,10 @@ Maintenance/User/Service/UserProvisionerTest.php
 User/Service/UserProvisionerTest.php
 Service/UserProvisionerTest.php
 UserProvisionerTest.php
+tests/unit/Core/KernelTest.php
+unit/Core/KernelTest.php
+Core/KernelTest.php
+KernelTest.php
 tests/unit/Core/Installer/InstallerKernelTest.php
 unit/Core/Installer/InstallerKernelTest.php
 Core/Installer/InstallerKernelTest.php
