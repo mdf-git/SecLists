@@ -73587,6 +73587,10 @@ plugins/woocommerce/changelog/fix-flaky-tests-save-site-editor-entities
 woocommerce/changelog/fix-flaky-tests-save-site-editor-entities
 changelog/fix-flaky-tests-save-site-editor-entities
 fix-flaky-tests-save-site-editor-entities
+plugins/woocommerce/changelog/fix-classic-cart-block-page-detection-56041
+woocommerce/changelog/fix-classic-cart-block-page-detection-56041
+changelog/fix-classic-cart-block-page-detection-56041
+fix-classic-cart-block-page-detection-56041
 plugins/woocommerce/changelog/56141-update-56082-list-non-active-plugins-and-themes-de-selected
 woocommerce/changelog/56141-update-56082-list-non-active-plugins-and-themes-de-selected
 changelog/56141-update-56082-list-non-active-plugins-and-themes-de-selected
@@ -73619,6 +73623,10 @@ plugins/woocommerce/changelog/fix-53996
 woocommerce/changelog/fix-53996
 changelog/fix-53996
 fix-53996
+plugins/woocommerce/changelog/56241-email-preview-error-messaging
+woocommerce/changelog/56241-email-preview-error-messaging
+changelog/56241-email-preview-error-messaging
+56241-email-preview-error-messaging
 plugins/woocommerce/changelog/56094-add-missing-span-closing-tag
 woocommerce/changelog/56094-add-missing-span-closing-tag
 changelog/56094-add-missing-span-closing-tag
@@ -73651,6 +73659,10 @@ plugins/woocommerce/changelog/56136-fix-wc_delete_transients
 woocommerce/changelog/56136-fix-wc_delete_transients
 changelog/56136-fix-wc_delete_transients
 56136-fix-wc_delete_transients
+plugins/woocommerce/changelog/fix-wrong-shipping-posted-with-local-pickup
+woocommerce/changelog/fix-wrong-shipping-posted-with-local-pickup
+changelog/fix-wrong-shipping-posted-with-local-pickup
+fix-wrong-shipping-posted-with-local-pickup
 plugins/woocommerce/changelog/e2e-fix-tests-with-wpcore-6.8
 woocommerce/changelog/e2e-fix-tests-with-wpcore-6.8
 changelog/e2e-fix-tests-with-wpcore-6.8
@@ -73755,6 +73767,10 @@ plugins/woocommerce/changelog/55796-add-54370-hide_flat_rate_when_free
 woocommerce/changelog/55796-add-54370-hide_flat_rate_when_free
 changelog/55796-add-54370-hide_flat_rate_when_free
 55796-add-54370-hide_flat_rate_when_free
+plugins/woocommerce/changelog/fix-55947
+woocommerce/changelog/fix-55947
+changelog/fix-55947
+fix-55947
 plugins/woocommerce/changelog/e2e-only-use-api-client
 woocommerce/changelog/e2e-only-use-api-client
 changelog/e2e-only-use-api-client
