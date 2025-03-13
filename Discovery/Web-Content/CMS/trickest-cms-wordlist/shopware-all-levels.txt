@@ -103600,6 +103600,9 @@ _unreleased/2025-01-09-improve-administration-area-search-usage.md
 changelog/_unreleased/2025-01-15-fix-message-deserialization.md
 _unreleased/2025-01-15-fix-message-deserialization.md
 2025-01-15-fix-message-deserialization.md
+changelog/_unreleased/2025-03-11-added-missing-rule-filter-for-shipping-price-matrix.md
+_unreleased/2025-03-11-added-missing-rule-filter-for-shipping-price-matrix.md
+2025-03-11-added-missing-rule-filter-for-shipping-price-matrix.md
 changelog/_unreleased/2025-01-30-allow-empty-theme-config-fields.md
 _unreleased/2025-01-30-allow-empty-theme-config-fields.md
 2025-01-30-allow-empty-theme-config-fields.md
@@ -137455,6 +137458,13 @@ DevOps/System/Command/SyncComposerVersionCommandTest.php
 System/Command/SyncComposerVersionCommandTest.php
 Command/SyncComposerVersionCommandTest.php
 SyncComposerVersionCommandTest.php
+tests/unit/Core/DevOps/Docs/App/DocsAppEventCommandTest.php
+unit/Core/DevOps/Docs/App/DocsAppEventCommandTest.php
+Core/DevOps/Docs/App/DocsAppEventCommandTest.php
+DevOps/Docs/App/DocsAppEventCommandTest.php
+Docs/App/DocsAppEventCommandTest.php
+App/DocsAppEventCommandTest.php
+DocsAppEventCommandTest.php
 tests/unit/Core/DevOps/Test/Command/MakeCoverageTestCommandTest.php
 unit/Core/DevOps/Test/Command/MakeCoverageTestCommandTest.php
 Core/DevOps/Test/Command/MakeCoverageTestCommandTest.php
