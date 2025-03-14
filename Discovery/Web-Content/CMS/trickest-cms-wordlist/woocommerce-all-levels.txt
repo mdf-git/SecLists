@@ -488,6 +488,12 @@ contributing-docs.md
 docs/extensibility-in-blocks/README.md
 extensibility-in-blocks/README.md
 README.md
+docs/emails/README.md
+emails/README.md
+README.md
+docs/emails/email-preview.md
+emails/email-preview.md
+email-preview.md
 docs/product-editor-development/README.md
 product-editor-development/README.md
 README.md
@@ -73716,6 +73722,10 @@ plugins/woocommerce/changelog/product-filters-attributes-sort-order
 woocommerce/changelog/product-filters-attributes-sort-order
 changelog/product-filters-attributes-sort-order
 product-filters-attributes-sort-order
+plugins/woocommerce/changelog/fix-56218-add-to-cart-with-options-button-text
+woocommerce/changelog/fix-56218-add-to-cart-with-options-button-text
+changelog/fix-56218-add-to-cart-with-options-button-text
+fix-56218-add-to-cart-with-options-button-text
 plugins/woocommerce/changelog/e2e-fix-install-wc
 woocommerce/changelog/e2e-fix-install-wc
 changelog/e2e-fix-install-wc
@@ -73852,6 +73862,10 @@ plugins/woocommerce/changelog/try-remove-merchant-email-notes
 woocommerce/changelog/try-remove-merchant-email-notes
 changelog/try-remove-merchant-email-notes
 try-remove-merchant-email-notes
+plugins/woocommerce/changelog/e2e-fix-flaky-product-review
+woocommerce/changelog/e2e-fix-flaky-product-review
+changelog/e2e-fix-flaky-product-review
+e2e-fix-flaky-product-review
 plugins/woocommerce/changelog/56275-55121-fix-fatal-error
 woocommerce/changelog/56275-55121-fix-fatal-error
 changelog/56275-55121-fix-fatal-error
@@ -73904,6 +73918,10 @@ plugins/woocommerce/changelog/fix-56148
 woocommerce/changelog/fix-56148
 changelog/fix-56148
 fix-56148
+plugins/woocommerce/changelog/56244-update-improve-shipping-option-card
+woocommerce/changelog/56244-update-improve-shipping-option-card
+changelog/56244-update-improve-shipping-option-card
+56244-update-improve-shipping-option-card
 plugins/woocommerce/changelog/56235-update-product-gallery-beta-remove-pager
 woocommerce/changelog/56235-update-product-gallery-beta-remove-pager
 changelog/56235-update-product-gallery-beta-remove-pager
