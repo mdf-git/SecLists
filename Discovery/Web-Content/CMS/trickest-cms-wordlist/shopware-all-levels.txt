@@ -1,4 +1,6 @@
 phpstan.neon.dist
+delivery-process/code-review-guidelines.md
+code-review-guidelines.md
 delivery-process/issues-and-labels.md
 issues-and-labels.md
 bin/pre-commit
@@ -103286,9 +103288,15 @@ _unreleased/2025-01-28-fix-cms-section-background.md
 changelog/_unreleased/2024-12-13-add-systemlanguagechangeevent-to-shopconfigurator.md
 _unreleased/2024-12-13-add-systemlanguagechangeevent-to-shopconfigurator.md
 2024-12-13-add-systemlanguagechangeevent-to-shopconfigurator.md
+changelog/_unreleased/2025-03-07-add-new-blocks-for-cms-element-image-gallery.md
+_unreleased/2025-03-07-add-new-blocks-for-cms-element-image-gallery.md
+2025-03-07-add-new-blocks-for-cms-element-image-gallery.md
 changelog/_unreleased/2025-02-10-change-cms-block-default-margin.md
 _unreleased/2025-02-10-change-cms-block-default-margin.md
 2025-02-10-change-cms-block-default-margin.md
+changelog/_unreleased/2025-03-13-reset-customer-on-cancel-order-create-modal.md
+_unreleased/2025-03-13-reset-customer-on-cancel-order-create-modal.md
+2025-03-13-reset-customer-on-cancel-order-create-modal.md
 changelog/_unreleased/2025-03-04-set-aria-current-page-for-activatenavigationid-in-navbar.md
 _unreleased/2025-03-04-set-aria-current-page-for-activatenavigationid-in-navbar.md
 2025-03-04-set-aria-current-page-for-activatenavigationid-in-navbar.md
