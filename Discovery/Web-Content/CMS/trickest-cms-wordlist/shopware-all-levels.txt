@@ -102838,6 +102838,9 @@ release-6-6-0-3/2024-04-03-cache-sales-channel-themes-per-sales-channel.md
 changelog/release-6-6-0-2/2024-03-26-migrate-cms-slot-config-for-sorting-options.md
 release-6-6-0-2/2024-03-26-migrate-cms-slot-config-for-sorting-options.md
 2024-03-26-migrate-cms-slot-config-for-sorting-options.md
+changelog/_unreleased/2025-03-14-make-sw_icons-aria-hidden-by-default.md
+_unreleased/2025-03-14-make-sw_icons-aria-hidden-by-default.md
+2025-03-14-make-sw_icons-aria-hidden-by-default.md
 changelog/_unreleased/2024-12-17-a11y-html-implement-logic-for-customize-document-template-to-support-html-accessibility.md
 _unreleased/2024-12-17-a11y-html-implement-logic-for-customize-document-template-to-support-html-accessibility.md
 2024-12-17-a11y-html-implement-logic-for-customize-document-template-to-support-html-accessibility.md
@@ -102859,6 +102862,9 @@ _unreleased/2024-11-26-using-external-url-for-media-s-path-without-storing-physi
 changelog/_unreleased/2024-12-11-fix-webpack-plugin-config-order.md
 _unreleased/2024-12-11-fix-webpack-plugin-config-order.md
 2024-12-11-fix-webpack-plugin-config-order.md
+changelog/_unreleased/2025-03-12-improve-product-box-accessibility.md
+_unreleased/2025-03-12-improve-product-box-accessibility.md
+2025-03-12-improve-product-box-accessibility.md
 changelog/_unreleased/2024-11-14-improve-mail-sender-fs.md
 _unreleased/2024-11-14-improve-mail-sender-fs.md
 2024-11-14-improve-mail-sender-fs.md
@@ -103111,6 +103117,9 @@ _unreleased/2025-02-07-improve-reset-interface-usage-with-array-data.md
 changelog/_unreleased/2024-12-11-deprecate-custom-entities-for-plugins.md
 _unreleased/2024-12-11-deprecate-custom-entities-for-plugins.md
 2024-12-11-deprecate-custom-entities-for-plugins.md
+changelog/_unreleased/2025-03-16-fix-media-folder-thumbnail-settings.md
+_unreleased/2025-03-16-fix-media-folder-thumbnail-settings.md
+2025-03-16-fix-media-folder-thumbnail-settings.md
 changelog/_unreleased/2025-02-28-add-shopware-usage-data-collection-enabled-config-to-improve-usage-of-shopware-usage-data-gateway-dispatch-enabled.md
 _unreleased/2025-02-28-add-shopware-usage-data-collection-enabled-config-to-improve-usage-of-shopware-usage-data-gateway-dispatch-enabled.md
 2025-02-28-add-shopware-usage-data-collection-enabled-config-to-improve-usage-of-shopware-usage-data-gateway-dispatch-enabled.md
@@ -133583,6 +133592,13 @@ Checkout/Cart/Facade/ScriptPriceStubsTest.php
 Cart/Facade/ScriptPriceStubsTest.php
 Facade/ScriptPriceStubsTest.php
 ScriptPriceStubsTest.php
+tests/unit/Core/Checkout/Cart/Facade/ProductsFacadeTest.php
+unit/Core/Checkout/Cart/Facade/ProductsFacadeTest.php
+Core/Checkout/Cart/Facade/ProductsFacadeTest.php
+Checkout/Cart/Facade/ProductsFacadeTest.php
+Cart/Facade/ProductsFacadeTest.php
+Facade/ProductsFacadeTest.php
+ProductsFacadeTest.php
 tests/unit/Core/Checkout/Cart/Facade/CartFacadeTest.php
 unit/Core/Checkout/Cart/Facade/CartFacadeTest.php
 Core/Checkout/Cart/Facade/CartFacadeTest.php
