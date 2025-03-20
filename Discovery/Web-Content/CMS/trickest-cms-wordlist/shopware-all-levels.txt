@@ -1218,6 +1218,11 @@ migration/Core/V6_6/Migration1729843381AddDefaultSettingConfigValueForReviewList
 Core/V6_6/Migration1729843381AddDefaultSettingConfigValueForReviewListingPerPageTest.php
 V6_6/Migration1729843381AddDefaultSettingConfigValueForReviewListingPerPageTest.php
 Migration1729843381AddDefaultSettingConfigValueForReviewListingPerPageTest.php
+tests/migration/Core/V6_7/Migration1741163941AddOrderInternalCommentTest.php
+migration/Core/V6_7/Migration1741163941AddOrderInternalCommentTest.php
+Core/V6_7/Migration1741163941AddOrderInternalCommentTest.php
+V6_7/Migration1741163941AddOrderInternalCommentTest.php
+Migration1741163941AddOrderInternalCommentTest.php
 tests/migration/Core/V6_7/Migration1737430168RemoveFileTypeOfDocumentTableTest.php
 migration/Core/V6_7/Migration1737430168RemoveFileTypeOfDocumentTableTest.php
 Core/V6_7/Migration1737430168RemoveFileTypeOfDocumentTableTest.php
@@ -55108,6 +55113,11 @@ Core/Migration/V6_7/Migration1740321707SetAutoplayTimeoutAndSpeedSettingsForProd
 Migration/V6_7/Migration1740321707SetAutoplayTimeoutAndSpeedSettingsForProductSlider.php
 V6_7/Migration1740321707SetAutoplayTimeoutAndSpeedSettingsForProductSlider.php
 Migration1740321707SetAutoplayTimeoutAndSpeedSettingsForProductSlider.php
+src/Core/Migration/V6_7/Migration1741163941AddOrderInternalComment.php
+Core/Migration/V6_7/Migration1741163941AddOrderInternalComment.php
+Migration/V6_7/Migration1741163941AddOrderInternalComment.php
+V6_7/Migration1741163941AddOrderInternalComment.php
+Migration1741163941AddOrderInternalComment.php
 src/Core/Migration/V6_7/Migration1717573310ImportExportTechnicalNameRequired.php
 Core/Migration/V6_7/Migration1717573310ImportExportTechnicalNameRequired.php
 Migration/V6_7/Migration1717573310ImportExportTechnicalNameRequired.php
@@ -130539,6 +130549,9 @@ _unreleased/2025-02-19-marked-entity-attributes-classes-final.md
 changelog/_unreleased/2024-11-28-improved-checkout-for-a11y.md
 _unreleased/2024-11-28-improved-checkout-for-a11y.md
 2024-11-28-improved-checkout-for-a11y.md
+changelog/_unreleased/2025-03-11-add-missing-dependency-field-of-url-runtime-field-to-media-defintion.md
+_unreleased/2025-03-11-add-missing-dependency-field-of-url-runtime-field-to-media-defintion.md
+2025-03-11-add-missing-dependency-field-of-url-runtime-field-to-media-defintion.md
 changelog/_unreleased/2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
 _unreleased/2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
 2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
@@ -130677,6 +130690,9 @@ _unreleased/2025-02-13-removed-sql_set_default_session_variables-and-enforce-mys
 changelog/_unreleased/2025-02-07-improve-reset-interface-usage-with-array-data.md
 _unreleased/2025-02-07-improve-reset-interface-usage-with-array-data.md
 2025-02-07-improve-reset-interface-usage-with-array-data.md
+changelog/_unreleased/2025-03-05-order-internal-comment.md
+_unreleased/2025-03-05-order-internal-comment.md
+2025-03-05-order-internal-comment.md
 changelog/_unreleased/2025-02-04-remove-accessibility-feature-flag.md
 _unreleased/2025-02-04-remove-accessibility-feature-flag.md
 2025-02-04-remove-accessibility-feature-flag.md
@@ -130911,6 +130927,9 @@ _unreleased/2024-12-12-add-enum-field.md
 changelog/_unreleased/2024-10-04-smaller-documents-sender-address.md
 _unreleased/2024-10-04-smaller-documents-sender-address.md
 2024-10-04-smaller-documents-sender-address.md
+changelog/_unreleased/2025-03-14-set-wishlistpage-to-noindex.md
+_unreleased/2025-03-14-set-wishlistpage-to-noindex.md
+2025-03-14-set-wishlistpage-to-noindex.md
 changelog/_unreleased/2024-11-23-remove-deprecated-autoload-true-associations.md
 _unreleased/2024-11-23-remove-deprecated-autoload-true-associations.md
 2024-11-23-remove-deprecated-autoload-true-associations.md
