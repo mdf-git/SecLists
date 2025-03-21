@@ -70716,6 +70716,11 @@ core/modules/link/link.services.yml
 modules/link/link.services.yml
 link/link.services.yml
 link.services.yml
+core/modules/link/src/AttributeXss.php
+modules/link/src/AttributeXss.php
+link/src/AttributeXss.php
+src/AttributeXss.php
+AttributeXss.php
 core/modules/link/src/Hook/LinkHooks.php
 modules/link/src/Hook/LinkHooks.php
 link/src/Hook/LinkHooks.php
